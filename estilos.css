@@ -1,0 +1,57 @@
+html {
+  font-family: Arial;
+}
+
+h1,
+h2,
+th {
+  color: rgb(35, 101, 117);
+  text-align: center;
+}
+
+body {
+  background-color: rgba(88, 125, 136, 0.514);
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  padding: 1rem;
+  background-color: white;
+  max-width: 1000px;
+  border-radius: 3%;
+}
+
+table {
+  width: 100%;
+  margin-top: 1rem;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 5px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+}
+
+fieldset {
+  border: 0;
+}
+
+.campo label{
+  display: block;
+}
+
+fieldset.grupo .campo {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+
