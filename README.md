@@ -8,4 +8,4 @@ Desenvolvido no bootcamp IGTI
 
 ### Resultado
 
-(https://github.com/thmouta/sim_financ/blob/main/simulador.png)
+<img src="https://github.com/thmouta/sim_financ/blob/main/simulador.png">
