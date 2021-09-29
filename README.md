@@ -6,4 +6,4 @@ Desenvolvido no bootcamp IGTI
 - CSS
 - JS 
 
-![Resultado](https://github.com/thmouta/sim_financ/blob/main/simulador.svg)
+![Resultado](https://github.com/thmouta/sim_financ/blob/main/simulador.png)
