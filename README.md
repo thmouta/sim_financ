@@ -1,11 +1,12 @@
 # Simulação de Financiamento
 
-Desenvolvido no bootcamp IGTI
+Desenvolvido no Bootcamp Desenvolvedor Tech PAN 
 
 - HTML
 - CSS
 - JS 
+- Interação com DOM
 
-### Resultado
+## Resultado
 
-<img src="https://github.com/thmouta/sim_financ/blob/main/simulador.png">
+<img src="https://github.com/thmouta/sim_financ/blob/main/simulador.png"> 
